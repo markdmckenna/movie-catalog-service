@@ -1,0 +1,74 @@
+----------------------------------------------------------------
+Wed Jan 31 17:39:16 CET 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018d-6063-9660-0000017d37a0 
+on database directory memory:C:\ws_JavaBrains\movie-catalog-service\b5181d51-024b-439f-a324-aef2d5a8bc69 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@22d8cfe0 
+Loaded from file:/C:/Users/mark.a.mckenna/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.6+10
+user.dir=C:\ws_JavaBrains\movie-catalog-service
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Jan 31 17:41:08 CET 2024:
+Shutting down instance a816c00e-018d-6063-9660-0000017d37a0 on database directory memory:C:\ws_JavaBrains\movie-catalog-service\b5181d51-024b-439f-a324-aef2d5a8bc69 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@22d8cfe0 
+----------------------------------------------------------------
+Wed Jan 31 17:41:09 CET 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance e66540fa-018d-6063-9660-0000017d37a0 
+on database directory memory:C:\ws_JavaBrains\movie-catalog-service\ff7c3f50-d8f7-4f4d-8b64-0bb71c92eb98 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@22d8cfe0 
+Loaded from file:/C:/Users/mark.a.mckenna/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.6+10
+user.dir=C:\ws_JavaBrains\movie-catalog-service
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Jan 31 17:44:27 CET 2024:
+Shutting down instance e66540fa-018d-6063-9660-0000017d37a0 on database directory memory:C:\ws_JavaBrains\movie-catalog-service\ff7c3f50-d8f7-4f4d-8b64-0bb71c92eb98 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@22d8cfe0 
+----------------------------------------------------------------
+Wed Jan 31 17:44:28 CET 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance 5b17c1e6-018d-6063-9660-0000017d37a0 
+on database directory memory:C:\ws_JavaBrains\movie-catalog-service\92a95ee7-28e3-4df1-b1ae-f18f5fb23614 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@22d8cfe0 
+Loaded from file:/C:/Users/mark.a.mckenna/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.6+10
+user.dir=C:\ws_JavaBrains\movie-catalog-service
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Jan 31 17:44:28 CET 2024:
+Shutting down instance 5b17c1e6-018d-6063-9660-0000017d37a0 on database directory memory:C:\ws_JavaBrains\movie-catalog-service\92a95ee7-28e3-4df1-b1ae-f18f5fb23614 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@22d8cfe0 
+----------------------------------------------------------------
+Wed Jan 31 17:44:28 CET 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance 062e42d2-018d-6063-9660-0000017d37a0 
+on database directory memory:C:\ws_JavaBrains\movie-catalog-service\92a95ee7-28e3-4df1-b1ae-f18f5fb23614 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@22d8cfe0 
+Loaded from file:/C:/Users/mark.a.mckenna/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.6+10
+user.dir=C:\ws_JavaBrains\movie-catalog-service
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Jan 31 17:44:35 CET 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance 9ee2c2d3-018d-6063-9660-0000017d37a0 
+on database directory memory:C:\ws_JavaBrains\movie-catalog-service\103f4470-0843-4694-9917-e2c6feafbe1a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@22d8cfe0 
+Loaded from file:/C:/Users/mark.a.mckenna/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.6+10
+user.dir=C:\ws_JavaBrains\movie-catalog-service
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
